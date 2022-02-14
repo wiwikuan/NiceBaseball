@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>好棒 NiceBaseball by NiceChord+</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="p5.min.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <script src="webmidi.js"></script>
+    <script src="sketch.js"></script>
+</head>
+
+<body>
+    <div id="main">
+        <div class="center">
+            <h3>好棒 NiceBaseball</h3>
+            by Wiwi Kuan (NiceChord+)
+
+            <div id="sketch-holder">
+                <!-- Our sketch will go here! -->
+            </div>
+        </div>
+        <div id="controls" class="center">
+            <div><h5>選擇 MIDI 裝置</h5>
+                <input id="slider" type="range" min="0" max="0" value="0">
+                <div id="device">Select Input: </div>
+            </div>
+            <br />
+            <div id="description"><h5>說明</h5>
+            <div class="left">
+                使用 WebMIDI 技術，只支援 Brave 和 Google Chrome，開始前請用滑鼠按一下視窗。<br /><br />
+                <b>投手：</b>C#5 和 D#5 左右移動，一起彈下 C5-E5-G5 來投球，你按下的力度和時間差會影響球路哦！<br /><br />
+                <b>打者：</b>彈下 C3 來揮棒。<br /><br />
+                C4 把球丟回給投手，C2 重設全部分數。<br /><br />
+                你在三個出局數內，能打出幾支安打呢？
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
