@@ -1,4 +1,4 @@
-# NiceBaseball
+# 好棒
 好棒 NiceBaseball - 用 MIDI 鍵盤打棒球！
 
 ## 介紹影片
@@ -24,3 +24,30 @@ https://nicechord.com/baseball/
 - `C2` 重設全部分數。
 
 你在三個出局數內，能打出幾支安打呢？
+
+---
+
+# NiceBaseball
+Play baseball using a MIDI keyboard!
+
+## Introduction Video
+https://wiwi.video/w/66xJL85u8wBSdmhkkTwocX
+
+## Play Now! 
+https://nicechord.com/baseball/
+(MIDI Keyboard required, tested only on Brave & Chrome)
+
+## Controls
+
+Select a MIDI device using the slider.
+
+**Pitcher:**
+- Use `C#5` and `D#5` on your MIDI keyboard to move left and right.
+- Play the chord `C5 E5 G5` (C major triad) to pitch, use velocity and balance to control the pitch.
+
+**Batter：**
+- Play `C3` to swing.
+
+**Other：**
+- `C4` to throw ball back to the pitcher.
+- `C2` to reset all scores.
