@@ -1,10 +1,13 @@
 # NiceBaseball
 好棒 NiceBaseball - 用 MIDI 鍵盤打棒球！
 
-# 免安裝，直接玩（只支援 Brave / Chrome 瀏覽器）
+## 介紹影片
+https://wiwi.video/w/66xJL85u8wBSdmhkkTwocX
+
+## 免安裝，直接玩（只支援 Brave / Chrome 瀏覽器）
 https://nicechord.com/baseball/
 
-# 操作
+## 操作
 
 先用上面的滑桿選擇一個 MIDI 裝置。
 （不支援使用一般電腦鍵盤，因為需要 MIDI 鍵盤才能有精準的力度感應）
