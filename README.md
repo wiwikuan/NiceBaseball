@@ -4,8 +4,9 @@
 ## 介紹影片
 https://wiwi.video/w/66xJL85u8wBSdmhkkTwocX
 
-## 免安裝，直接玩（只支援 Brave / Chrome 瀏覽器）
-https://nicechord.com/baseball/
+## 免安裝，直接玩
+https://nicechord.com/baseball/ 
+（需要 MIDI 鍵盤才可玩，只支援 Brave / Chrome 瀏覽器）
 
 ## 操作
 
